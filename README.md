@@ -21,9 +21,13 @@ Features are as follow:
 | Original(320x420) | Upscaled(2560x1920) |
 ------------ | -------------
 ![](pics/sample/vid1_Original.jpg) | ![](pics/sample/vid1_SR.jpg)
+
 | Original(426x420) | Upscaled(2982x1680) |
+------------ | -------------
 ![](pics/sample/vid2_Original.jpg) | ![](pics/sample/vid2_SR.jpg)
+
 | Original(320x420) | Upscaled(2560x1920) |
+------------ | -------------
 ![](pics/sample/vid3_Original.jpg) | ![](pics/sample/vid3_SR.jpg)
 
 
